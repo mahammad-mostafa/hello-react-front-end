@@ -34,7 +34,8 @@ Remote data fetching from the backend is done with `Thunk` api.
 Navigation inside the app is implemented using `React Router`.
 Linters are used for `JavaScript` & `CSS` through `ESLint` & `StyleLint`.
 Development follows the `GitFlow` workflow.
-Backend section is located [here](https://github.com/mahammad-mostafa/hello-rails-back-end).
+<br/>
+Backend section is located in this [repository](https://github.com/mahammad-mostafa/hello-rails-back-end).
 
 📌 **Tech Stack:**
 - Frontend language is `JavaScript`
