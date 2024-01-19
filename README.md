@@ -1,70 +1,153 @@
-# Getting Started with Create React App
+<a name="title"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- TITLE -->
 
-## Available Scripts
+# 🏷️ Hello React Front End
 
-In the project directory, you can run:
+This is the third project in the full stack capstone module in the **Microverse** program.
+<br/>
+Check the below contents for further details about this project.
 
-### `npm start`
+<!-- CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📗 Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Description](#description)
+- [Instructions](#instructions)
+- [Authors](#authors)
+- [Future](#future)
+- [Contributions](#contributions)
+- [Support](#support)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
-### `npm test`
+<!-- DESCRIPTION -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a name="description"></a>
 
-### `npm run build`
+# 📖 Description
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This repository is about a simple greeting text in a single page.
+It includes the frontend section of the app where it uses `React` framework.
+State management in `React` is handled using `Redux` & `Redux Toolkit`.
+Remote data fetching from the backend is done with `Thunk` api.
+Navigation inside the app is implemented using `React Router`.
+Linters are used for `JavaScript` & `CSS` through `ESLint` & `StyleLint`.
+Development follows the `GitFlow` workflow.
+Backend section is located [here](https://github.com/mahammad-mostafa/hello-rails-back-end).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📌 **Tech Stack:**
+- Frontend language is `JavaScript`
+- Frontend Framework used is `React`
+- Frontend styling used is `CSS`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📌 **Key Features:**
+- Single page application
+- Responsive layout with all screen sizes
+- Basic header & footer structure
+- Button to generate random greeting
+- Not found page for invalid pages
+- Dark theme with minimal styling
 
-### `npm run eject`
+<p align="right"><a href="#title">back to top</a></p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- INSTRUCTIONS -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a name="instructions"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# 🛠️ Instructions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You can easily download or fork this repository and work on it immadiately!
 
-## Learn More
+📌 **Prerequisites:**
+- `NodeJS` for installing & running all packages
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+📌 **Installation:**
+- Install all dependencies with `npm`
+```
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📌 **Development:**
+- For live development on `localhost:3000` run:
+```
+npm run start
+```
 
-### Code Splitting
+📌 **Deployment:**
+- You can deploy this project by uploading files in the `build` folder to a live server.
+- Create the distribution build using this command:
+```
+npm run build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="right"><a href="#title">back to top</a></p>
 
-### Analyzing the Bundle Size
+<!-- AUTHORS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<a name="authors"></a>
 
-### Making a Progressive Web App
+# 👥 Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📌 **Mahammad:**
+- [GitHub](https://github.com/mahammad-mostafa)
+- [Twitter](https://twitter.com/mahammad_mostfa)
+- [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
 
-### Advanced Configuration
+<p align="right"><a href="#title">back to top</a></p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- FUTURE -->
 
-### Deployment
+<a name="future"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# 🔭 Future
 
-### `npm run build` fails to minify
+Some additional features I may implement in the project:
+- [ ] Use some animations or transitions
+- [ ] Navigation menu with additional pages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- CONTRIBUTIONS -->
+
+<a name="contributions"></a>
+
+# 🤝🏻 Contributions
+
+Wish to contribute to this project?
+<br/>
+Contributions, issues, and feature requests are more than welcome!
+<br/>
+Feel free to check the [issues](../../issues) page too.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- SUPPORT -->
+
+<a name="support"></a>
+
+# ⭐️ Support
+
+Like this project? Show your support by starring!
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+<a name="acknowledgements"></a>
+
+# 🙏🏻 Acknowledgements
+
+I thank everyone at **Microverse** for guiding me through this project.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- LICENSE -->
+
+<a name="license"></a>
+
+# 📝 License
+
+This project is [MIT](LICENSE.md) licensed.
+
+<p align="right"><a href="#title">back to top</a></p>
